@@ -1,5 +1,7 @@
 ### Oi, eu sou o Gustavo! 👋
 
+
+
 - 🖥️ I'm a Software Developer @ Magna Sistemas, São Paulo, Brazil. 
      Some technologies I'm currently working on: Java 8+, JavaScript, Spring Framework (Boot, MVC, Security) and also InterSystems technologies/products: Caché, ZEN, ObjectScript, IRIS, Ensemble.
 

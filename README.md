@@ -2,8 +2,8 @@
 
 
 
-- 🖥️ I'm a Software Developer @ Magna Sistemas, São Paulo, Brazil. 
-     Some technologies I'm currently working on: Java 8+, JavaScript, Spring Framework (Boot, MVC, Security) and also InterSystems technologies/products: Caché, ZEN, ObjectScript, IRIS, Ensemble.
+
+- 🖥️ I'm a Software Engineer based in São Paulo, Brazil. Some technologies I'm currently working on: Java 8+, JavaScript, Spring Framework (Boot, MVC, Security), InterSystems technologies/products: Caché, ZEN, CSP, ObjectScript, Ensemble, applications in a set of PaaS with Docker, data analysis and integration using IRIS Data Platform and multidimensional language MDX, deployment of systems on multiple platforms (windows server 2008/2012, CentOS, RedHat), engineering, integration, implementation and manipulation of databases in cloud computing on Google Cloud Platform and Microsoft Azure.
 
 - 📚 Software Engineering Student @ Universidade Católica de Brasília
       

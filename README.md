@@ -38,7 +38,7 @@
       <img align="center" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
-      <img align="center" src="https://i.imgur.com/ebdvc86.png">
+     
       
 </div>
 <div style="display:inline_block">

@@ -58,10 +58,6 @@
      <a href="https://medium.com/@ribeirogustavo"> <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
  </div>
           
-<div style="display: inline_block"> 
-     <br><br>
-     <a href="https://github.com/devgustavoribeiro"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgustavoribeiro&layout=compact">
-     <a href="https://github.com/devgustavoribeiro"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=devgustavoribeiro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
-</div>
+
      
 

@@ -55,7 +55,6 @@
 <div style="display: inline_block">     
      <a href="https://www.linkedin.com/in/dvpgustavo/"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
      <a href="https://stackoverflow.com/users/16722484/gustavo-ribeiro"> <img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-     <a href="https://gitlab.com/grsantos"> <img align="center" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
      <a href="https://www.instagram.com/gustavribeiro/"> <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">   
      <a href="https://medium.com/@ribeirogustavo"> <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
  </div>

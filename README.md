@@ -3,7 +3,7 @@
 
 
 
-- 🖥️ I'm a Software Engineer from Brasília, Brazil. Some technologies I'm currently working on: Java 8+, JavaScript, Spring Framework (Boot, MVC, Security), InterSystems technologies/products: Caché, ZEN, CSP, ObjectScript, Ensemble, applications in a set of PaaS with Docker, data analysis and integration using IRIS Data Platform and multidimensional language MDX, deployment of systems on multiple platforms (windows server 2008/2012, CentOS, RedHat), engineering, integration, implementation and manipulation of databases in cloud computing on Google Cloud Platform and Microsoft Azure.
+- 🖥️ I'm a Software Engineer from Brasília, Brazil. I have knowledge in healthcare, the legal area and open finance technologies, relational/post-relational databases, object-oriented, procedural structured and functional languages, UML, RUP and BPM. I have 4 years of experience in Python, Java 8+, Spring Framework, JavaScript, C ANSI, SQL, IBM (DB2, Watson), SAS Software, InterSystems platform (IRIS, Caché, Ensemble, ObjectScript, Zen, CSP), cloud computing (Microsoft Azure, Google Cloud Platform, AWS), data engineering and science (SAS, PowerBI, Data Lake, Data Warehouses, Clusters, BigQuery, Airflow). Presently I’m studying and getting prepared for the Professional Data Engineer certification from Google Cloud Platform.
 
 - 📚 Software Engineering @ Universidade Católica de Brasília
       

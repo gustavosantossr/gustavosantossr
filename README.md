@@ -60,7 +60,7 @@
      <a href="https://medium.com/@ribeirogustavo"> <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
  </div>
            
-### 📱 Contact me at
+### 💻 Contact me at
 <div style="display: inline_block">     
      <a href="mailto:gustavribeirods@gmail.com"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
      <a href="https://wa.me/message/RVPFLMG4RYSTO1"> <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">

@@ -44,8 +44,7 @@
 </div>
 
 <div style="display:inline_block">
-      <br>
-      
+      <br>      
       <img align="center" src="https://svgshare.com/i/hNG.svg">
       <img align="center" src="https://svgshare.com/i/hP6.svg">
       <img align="center" src="https://svgshare.com/i/hQ0.svg">

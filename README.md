@@ -45,7 +45,6 @@
 
 <div style="display:inline_block">
       <br>
-      <a href='https://svgshare.com/s/hMX' ><img src='https://svgshare.com/i/hMX.svg' title='' /></a>
       <img align="center" src="https://svgshare.com/i/hMX.svg">
 </div>
       

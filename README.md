@@ -45,7 +45,10 @@
 
 <div style="display:inline_block">
       <br>
-      <img align="center" src="https://svgshare.com/i/hMX.svg">
+      
+      <img align="center" src="https://svgshare.com/i/hNG.svg">
+      <img align="center" src="https://svgshare.com/i/hP6.svg">
+      <img align="center" src="https://svgshare.com/i/hQ0.svg">
 </div>
       
 <div style="display:inline_block">

@@ -45,7 +45,9 @@
 
 <div style="display:inline_block">
       <br>  
+      <!-- InterSystems badges made by Victor Goulart - http://www.victorgoulart.com/ -->
       <img align="center" src="https://svgshare.com/i/hQ1.svg">
+      <img align="center" serc="https://svgshare.com/i/hMY.svg">
       <img align="center" src="https://svgshare.com/i/hNG.svg">
       <img align="center" src="https://svgshare.com/i/hP6.svg">
       <img align="center" src="https://svgshare.com/i/hQ0.svg">

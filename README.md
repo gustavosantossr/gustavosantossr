@@ -5,7 +5,7 @@
 
 - 🖥️ I'm a Software Engineer from Brasília, Brazil, with knowledge in healthcare, the legal area and open finance technologies, relational/post-relational databases, object-oriented, procedural structured and functional languages, UML, RUP and BPM. I have 5 years of experience in Python, Java 8+, Spring Framework, JavaScript, C/C#,  SQL, IBM (DB2, Watson), SAS Software (Enterprise Guide and Data Management), multiple InterSystems technologies (IRIS, Caché, Ensemble, ObjectScript, Zen, CSP), cloud computing (Microsoft Azure, Google Cloud Platform), data engineering and data science (SAS, PowerBI, Data Lake, Data Warehouses, Clusters, Synapse Analytics and Databricks), and also had experience with code versioning tools and agile development. My other skills you can see in the next section :) Presently I’m studying and getting prepared for Professional Data Engineer certification from Google Cloud Platform. 
 
-- 📚 Software Engineering @ Universidade Católica de Brasília
+- 📚 Software Engineering 
       
 - 😄 Pronouns: he/him
 

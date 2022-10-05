@@ -62,8 +62,8 @@
 
 ### 📉 Certifications
 <div style="display: inline_block">     
-     <a href="#"> <img align="center" src="[https://www.credly.com/badges/74aa30bb-fc73-44a2-b07b-12a48e8090ae/public_url]">
-           <blockquote class="imgur-embed-pub" lang="en" data-id="a/RevAHSc" data-context="false" ><a href="//imgur.com/a/RevAHSc"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>](https://imgur.com/mlg5mjk)
+     <a href="#"> <img align="center" src="https://i.imgur.com/mlg5mjk.png">
+ </div>
 
 ### 💻 Social Media
 <div style="display: inline_block">     

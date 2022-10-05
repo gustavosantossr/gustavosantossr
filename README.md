@@ -61,7 +61,8 @@
 </div>
 
 ### 📉 Certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="74aa30bb-fc73-44a2-b07b-12a48e8090ae" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div style="display: inline_block">     
+     <a href="#"> <img align="center" src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.credly.com/badges/74aa30bb-fc73-44a2-b07b-12a48e8090ae/public_url)">
 
 ### 💻 Social Media
 <div style="display: inline_block">     

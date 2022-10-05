@@ -62,7 +62,7 @@
 
 ### 📉 Certifications
 <div style="display: inline_block">     
-     <a href="#"> <img align="center" src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.credly.com/badges/74aa30bb-fc73-44a2-b07b-12a48e8090ae/public_url)">
+     <a href="#"> <img align="center" src="https://www.credly.com/badges/74aa30bb-fc73-44a2-b07b-12a48e8090ae/public_url">
 
 ### 💻 Social Media
 <div style="display: inline_block">     

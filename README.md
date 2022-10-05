@@ -3,7 +3,7 @@
 
 
 
-- 🖥️ Data Engineer with knowledge in healthcare, the legal area and open finance technologies, relational/post-relational databases, object-oriented, procedural structured and functional languages, UML, RUP and BPM. I have 5 years of experience in Python, Java 8+, Spring Framework, JavaScript, SQL, IBM (DB2, Watson), SAS (Enterprise Guide and Data Management), multiple InterSystems technologies (IRIS, Caché, Ensemble, ObjectScript, Zen, CSP), cloud computing (Microsoft Azure, Google Cloud Platform), data engineering and data science (SAS, PowerBI, Astronomer, Alteryx, BigQuery, Synapse Analytics), code versioning tools and agile development. Presently I’m studying and getting prepared for Microsoft Azure Data Fundamentals certification. My other skills you can see in the next section :)
+- 🖥️ Data Engineer with knowledge in healthcare, the legal area and open finance technologies, relational/post-relational databases, object-oriented, procedural structured and functional languages, UML, RUP and BPM. I have 5 years of experience in Python, Java 8+, Spring Framework, JavaScript, SQL, IBM (DB2, Watson), SAS (Enterprise Guide and Data Management), multiple InterSystems technologies (IRIS, Caché, Ensemble, ObjectScript, Zen, CSP), cloud computing (Microsoft Azure, Google Cloud Platform), data engineering and data science (SAS, PowerBI, Astronomer, Alteryx, BigQuery, Synapse Analytics), code versioning tools and agile development. My other skills you can see in the next section :)
 
 - 📚 Software Engineering 
       
@@ -60,7 +60,8 @@
       <img align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">  
 </div>
 
-
+### 📉 Certifications
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="74aa30bb-fc73-44a2-b07b-12a48e8090ae" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ### 💻 Social Media
 <div style="display: inline_block">     

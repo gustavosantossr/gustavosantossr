@@ -3,7 +3,7 @@
 
 
 
-- 🖥️ Data Engineer with knowledge in healthcare, the legal area and open finance technologies, relational/post-relational databases, object-oriented, procedural structured and functional languages, UML, RUP and BPM. I have 5 years of experience in Python, Java 8+, Spring Framework, JavaScript, SQL, IBM (DB2, Watson), SAS (Enterprise Guide and Data Management), multiple InterSystems technologies (IRIS, Caché, Ensemble, ObjectScript, Zen, CSP), cloud computing (Microsoft Azure, Google Cloud Platform), data engineering and data science (SAS, PowerBI, Airflow, Astronomer, Alteryx, BigQuery, Databricks, Synapse Analytics), code versioning tools and agile development. My other skills you can see in the next section :)
+- 🖥️ Data Engineer certified by Microsoft and InterSystems, where in my career I gained experience in multiple areas as well as technologies focused on health, automotive, legal and finance areas. I have 5 years of experience with relational / post-relational and non-relational databases, multiparadigm programming languages, business process modeling, and in recent years I've had a greater focus on Cloud Computing (particularly Google Cloud Platform and Microsoft Azure) and Big Data & Data Engineering. My other skills you can see in the next section :)
 
 - 📚 Software Engineering 
       

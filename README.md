@@ -72,7 +72,7 @@
       <img align="center" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
       <!-- InterSystems badges made by Victor Goulart - http://www.victorgoulart.com/ -->
-      <img align="center" src="https://svgshare.com/i/qmh.svg">
+      <img align="center" src="https://svgshare.com/i/qmX.svg">
     
 </div>
 

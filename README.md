@@ -3,7 +3,7 @@
 
 
 
-- 🖥️ Data Engineer certified by Microsoft and InterSystems, where in my career I gained experience in multiple areas as well as technologies focused on health, automotive, legal and finance areas. I have 5 years of experience with relational / post-relational and non-relational databases, multiparadigm programming languages, business process modeling, and in most recent years I've had a greater focus on Cloud Computing (particularly Google Cloud Platform and Microsoft Azure) and Big Data & Data Engineering. My other skills you can see in the next section :)
+- 🖥️ Data Engineer certified by Microsoft, where in my career I gained experience in multiple areas as well as technologies focused on health, automotive, legal and finance areas. I have 5 years of experience with relational / post-relational and non-relational databases, multiparadigm programming languages, business process modeling, and in most recent years I've had a greater focus on Cloud Computing (particularly Google Cloud Platform and Microsoft Azure) and Big Data & Data Engineering. My other skills you can see in the next section :)
 
 - 📚 Software Engineering 
       
@@ -67,13 +67,13 @@
 
 <div style="display:inline_block">
       <br>
-      <img align="center" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">      
+      <img align="center" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"> 
+      <!-- Astronomer badge made by Victor Goulart - http://www.victorgoulart.com/ -->
+      <img align="center" src="https://svgshare.com/i/qmX.svg">
       <img align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
-      <!-- Astronomer badge made by Victor Goulart - http://www.victorgoulart.com/ -->
-      <img align="center" src="https://svgshare.com/i/qmX.svg">
-    
+          
 </div>
 
 ### 📉 Certifications

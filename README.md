@@ -114,6 +114,5 @@
 <br>
 <br>
            
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavribeirods&show_icons=true&hide=stars&bg_color=#a6e3fb)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavribeirods&layout=compact)](https://github.com/gustavribeirods/github-readme-stats)
-           
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavribeirods&show_icons=true&bg_color=#a6e3fb)
+

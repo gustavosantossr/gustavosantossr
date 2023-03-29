@@ -113,6 +113,8 @@
 <br>
 <br>
 <br>
-           
+<div align="center">   
+      
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavribeirods&show_icons=true&bg_color=#a6e3fb)
-
+      
+</div>

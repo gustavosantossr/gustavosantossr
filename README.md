@@ -110,11 +110,11 @@
      <a href="mailto:gustavribeirods@gmail.com"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
      <a href="https://wa.me/message/RVPFLMG4RYSTO1"> <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </div>
-<br>
-<br>
+
 <br>
 <div align="center">   
       
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavribeirods&show_icons=true&bg_color=#a6e3fb)
+          
       
 </div>

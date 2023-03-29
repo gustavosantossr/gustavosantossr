@@ -3,7 +3,7 @@
 
 
 
-- 🖥️ Data Engineer certified by Microsoft, where in my career I gained experience in multiple areas as well as technologies focused on health, automotive, legal and finance areas. I have 5 years of experience with relational / post-relational and non-relational databases, multiparadigm programming languages, business process modeling, and in most recent years I've had a greater focus on Cloud Computing (particularly Google Cloud Platform and Microsoft Azure) and Big Data & Data Engineering. My other skills you can see in the next section :)
+- 🖥️ Data Engineer certified by Microsoft Azure, where in my career I've had experience in multiple areas as well as technologies focused on health, automotive, legal and finance areas. Years of experience with relational / post-relational and non-relational databases, multiparadigm programming languages, business process modeling, and in most recent years I've had a greater focus on Cloud Computing (particularly Google Cloud Platform and Microsoft Azure), Big Data Analytics & Data Engineering.
 
 - 📚 Software Engineering 
       
@@ -15,7 +15,7 @@
 <div style="display: inline_block"> 
       <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-      <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      <!-- <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> -->
       <img align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -27,9 +27,9 @@
 
 <div style="display:inline_block">
       <br>
-      <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+      <!--<img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-      <img align="center" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
+      <img align="center" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"> -->
       <img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
       <img align="center" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> 

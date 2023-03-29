@@ -1,16 +1,10 @@
 ### Oi, eu sou o Gustavo! 👋
 
-
-
-
 - 🖥️ Data Engineer certified by Microsoft Azure, where in my career I've had experience in multiple areas as well as technologies focused on health, automotive, legal and finance areas. Years of experience with relational / post-relational and non-relational databases, multiparadigm programming languages, business process modeling, and in most recent years I've had a greater focus on Cloud Computing (particularly Google Cloud Platform and Microsoft Azure), Big Data Analytics & Data Engineering.
-
-- 📚 Software Engineering 
-      
-- 😄 Pronouns: he/him
 
 ### 🚀 Skills  
 
+> **I speak...** 
 
 <div style="display: inline_block"> 
       <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -21,52 +15,61 @@
       <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> 
-      
-        
+      <br>
+      <br>
 </div>
 
+> **Frameworks I've already used**
 <div style="display:inline_block">
-      <br>
       <!--<img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"> -->
       <img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
       <img align="center" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> 
+      <br>
+      <br>
 </div>
 
-<div style="display:inline_block">
-      <br>
+> **Favorite databases**
+<div style="display:inline_block">      
       <img align="center" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">      
       <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-      <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">      
+      <img align="center" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">      
       <img align="center" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"> 
-     
-      
+      <br>
+      <br>
 </div>
 
+> **Data platform I worked for years**
+
 <div style="display:inline_block">
-      <br>  
       <!-- InterSystems badges made by Victor Goulart - http://www.victorgoulart.com/ -->
       <img align="center" src="https://svgshare.com/i/hQ1.svg">
       <img align="center" src="https://svgshare.com/i/hMY.svg">
       <img align="center" src="https://svgshare.com/i/hNG.svg">
       <img align="center" src="https://svgshare.com/i/hP6.svg">
       <img align="center" src="https://svgshare.com/i/hQ0.svg">
+      <br>
+      <br>
 </div>
+
+> **Cloud providers**
       
 <div style="display:inline_block">
-      <br>
       <img align="center" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">  
       <img align="center" src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white"> 
+      <br>
+      <br>
 </div>
 
+> **Tools & Services I'm working with**
+
 <div style="display:inline_block">
-      <br>
       <img align="center" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"> 
       <!-- Astronomer badge made by Victor Goulart - http://www.victorgoulart.com/ -->
       <img align="center" src="https://svgshare.com/i/qmh.svg">
@@ -75,8 +78,11 @@
       <img align="center" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
+      <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+      <img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
           
 </div>
+<br><br>
 
 ### 📉 Certifications
 <div style="display: inline_block">     
@@ -97,8 +103,6 @@
       <a href="https://music.apple.com/profile/gustavribeiro"><img align="center" src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white">
       <a href="https://open.spotify.com/user/0mbt650t2c8rfatf8p9a7vqrz?si=cO9U7QtlR4i8MGcyKE5jnQ"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
       <a href="https://www.last.fm/pt/user/gustavo_ribeiro"><img align="center" src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white"> 
-     
-      
 </div>
            
 ### 📱 Contact me at
@@ -106,7 +110,10 @@
      <a href="mailto:gustavribeirods@gmail.com"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
      <a href="https://wa.me/message/RVPFLMG4RYSTO1"> <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </div>
-          
-
-     
-
+<br>
+<br>
+<br>
+           
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavribeirods&show_icons=true&hide=stars&bg_color=#a6e3fb)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavribeirods&layout=compact)](https://github.com/gustavribeirods/github-readme-stats)
+           

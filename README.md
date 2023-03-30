@@ -19,7 +19,7 @@
       <br>
 </div>
 
-> **Frameworks I've already used**
+> **Frameworks**
 <div style="display:inline_block">
       <!--<img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
@@ -31,7 +31,7 @@
       <br>
 </div>
 
-> **Favorite databases**
+> **DBMS**
 <div style="display:inline_block">      
       <img align="center" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">      
       <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
@@ -43,7 +43,7 @@
       <br>
 </div>
 
-> **Data platform I worked for years**
+> **Data platforms & Integration services**
 
 <div style="display:inline_block">
       <!-- InterSystems badges made by Victor Goulart - http://www.victorgoulart.com/ -->
@@ -56,7 +56,7 @@
       <br>
 </div>
 
-> **Cloud providers**
+> **Clouds**
       
 <div style="display:inline_block">
       <img align="center" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">

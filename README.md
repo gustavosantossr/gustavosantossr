@@ -4,7 +4,7 @@
 
 ### 🚀 Skills  
 
-> **I speak...** 
+> **Languages I speak** 
 
 <div style="display: inline_block"> 
       <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">

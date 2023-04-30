@@ -86,7 +86,7 @@
 
 ### 📉 Certifications
 <div style="display: inline_block">     
-     <a href="#"> <img align="center" src="https://i.imgur.com/mlg5mjk.png">
+     <a href="#"> <img align="center"  src="https://i.imgur.com/mlg5mjk.png">
  </div>
 
 ### 💻 Social Media

@@ -1,11 +1,8 @@
 ### Oi, eu sou o Gustavo! 👋
 
-- 🖥️ Data Engineer certified by Microsoft Azure, where in my career I've had experience in multiple areas as well as technologies focused on health, automotive, legal and finance areas. Years of experience with relational / post-relational and non-relational databases, multiparadigm programming languages, business process modeling, and in most recent years I've had a greater focus on Cloud Computing (particularly Google Cloud Platform and Microsoft Azure), Big Data Analytics & Data Engineering.
+- 🖥️ Cloud Data Engineer. I've had experience in multiple areas as well as technologies focused on health, automotive, legal and finance areas. Years of experience with relational / post-relational and non-relational databases, multiparadigm programming languages, business process modeling, and in most recent years I've had a greater focus on Cloud Computing (particularly Google Cloud Platform and Microsoft Azure), Big Data, AI & ML.
 
 ### 🚀 Skills  
-
-> **Languages I speak** 
-
 <div style="display: inline_block"> 
       <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
@@ -18,8 +15,6 @@
       <br>
       <br>
 </div>
-
-> **Frameworks**
 <div style="display:inline_block">
       <!--<img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
@@ -30,34 +25,26 @@
       <br>
       <br>
 </div>
-
-> **DBMS**
 <div style="display:inline_block">      
-      <img align="center" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">      
+      <img align="center" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">    
       <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-      <img align="center" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">      
+      <!--<img align="center" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">   -->   
       <img align="center" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"> 
       <br>
       <br>
 </div>
-
-> **Data platforms & Integration services**
-
 <div style="display:inline_block">
       <!-- InterSystems badges made by Victor Goulart - http://www.victorgoulart.com/ -->
       <img align="center" src="https://svgshare.com/i/hQ1.svg">
-      <img align="center" src="https://svgshare.com/i/hMY.svg">
+      <!--<img align="center" src="https://svgshare.com/i/hMY.svg">-->
       <img align="center" src="https://svgshare.com/i/hNG.svg">
       <img align="center" src="https://svgshare.com/i/hP6.svg">
       <img align="center" src="https://svgshare.com/i/hQ0.svg">
       <br>
       <br>
-</div>
-
-> **Clouds**
-      
+</div>      
 <div style="display:inline_block">
       <img align="center" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
@@ -66,9 +53,6 @@
       <br>
       <br>
 </div>
-
-> **Tools & Services I'm working with**
-
 <div style="display:inline_block">
       <img align="center" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"> 
       <!-- Astronomer badge made by Victor Goulart - http://www.victorgoulart.com/ -->
@@ -76,11 +60,11 @@
       <!-- <img align="center" src="https://svgshare.com/i/quJ.svg"> -->
       <img align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+      <br><br>
       <img align="center" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-      <!--<img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">-->
-          
+      <!--<img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">-->          
 </div>
 <br><br>
 
@@ -94,6 +78,7 @@
      <a href="https://www.linkedin.com/in/gustavribeiro/"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
      <a href="https://stackoverflow.com/users/16722484/gustavo-ribeiro"> <img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
       <a href="https://www.hackerrank.com/gustavribeirods"> <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+            <br> <br>
      <a href="https://www.instagram.com/gustavribeiro/"> <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">   
      <a href="https://medium.com/@ribeirogustavo"> <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
  </div>

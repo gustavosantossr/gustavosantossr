@@ -1,6 +1,6 @@
 ### Oi, eu sou o Gustavo! 👋
 
-- 🖥️ Cloud Data Engineer. I've had experience in multiple areas as well as technologies focused on health, automotive, legal and finance areas. Years of experience with relational / post-relational and non-relational databases, multiparadigm programming languages, business process modeling, and in most recent years I've had a greater focus on Cloud Computing (particularly Google Cloud Platform and Microsoft Azure), Big Data, AI & ML.
+- 🖥️ Data Engineer with experience in cloud computing environments across various domains such as healthcare, finance, and law. Possesses knowledge in relational, non-relational, and post-relational databases, multi-paradigm programming, DevOps, Big Data, AI & ML, and has earned certifications in data and cloud computing fields. Delivers talks at technology events throughout Brazil and engages in volunteer work within technology communities. A member of programs like GitHub Developers and Google Cloud Innovators. Recently, became an organizer of the Google Developers Group, a Google program for leaders in their respective areas of expertise.
 
 ### 🚀 Skills  
 <div style="display: inline_block"> 

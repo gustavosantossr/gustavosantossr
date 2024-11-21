@@ -104,7 +104,12 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavribeirods&show_icons=true&bg_color=#a6e3fb)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgustavosantossr%2Fgustavosantossr.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgustavosantossr%2Fgustavosantossr?ref=badge_shield)
           
       
 </div>
 -->
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgustavosantossr%2Fgustavosantossr.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgustavosantossr%2Fgustavosantossr?ref=badge_large)
